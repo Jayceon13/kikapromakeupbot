@@ -1,6 +1,6 @@
 import telebot
 from telebot import types
-TOKEN = '5935429215:AAE5BLeifHUbDl3N4mYhYpV9BvCNgA0oc70'
+TOKEN = ''
 CHANNEL_NAME = '@jayceon13'
 
 bot = telebot.TeleBot(TOKEN)
